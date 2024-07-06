@@ -1,6 +1,6 @@
 ﻿namespace testno2
 {
-    public class test
+    public class test1
     {
     }
 }
